@@ -1,0 +1,7 @@
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\bin\Debug\side and circumference of rectangle.exe.config
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\bin\Debug\side and circumference of rectangle.exe
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\bin\Debug\side and circumference of rectangle.pdb
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\obj\Debug\side and circumference of rectangle.csprojAssemblyReference.cache
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\obj\Debug\side and circumference of rectangle.csproj.CoreCompileInputs.cache
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\obj\Debug\side and circumference of rectangle.exe
+D:\Uni\Programming\C#\side and circumference of rectangle\side and circumference of rectangle\obj\Debug\side and circumference of rectangle.pdb
